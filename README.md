@@ -50,4 +50,4 @@ You are reading it right now!
 4.6 A Video Walkthrough
 The video is here on youtube: https://youtu.be/BYHBUQRWMdQ
 
-Also, the source code is hosted on github as well:
+Also, the source code is hosted on github as well: https://github.com/GiancarloCis110/CIS_192_Final_Project
